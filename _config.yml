@@ -1,7 +1,7 @@
 name: Andrew Love
 favicon: null
-layout_spectrum: 0.7551922874990851
-typography_spectrum: 0.6307871728204191
+layout_spectrum: 0.98557
+typography_spectrum: 0.50264
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.5098066790960729
-  lightness: 0.6807866056915373
-  saturation: 0.14714173949323595
-  rhythmicContrast: 0.8882440815214068
+    - '#fbebae'
+    - '#bec5cb'
+    - '#787e8c'
+    - '#10100e'
+    - '#634f2a'
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
